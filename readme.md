@@ -1,1 +1,1 @@
-My daily LeetCode challenge log where I solve problems in Python 🐍.
+LeetCode challenge log where I solve problems in Python 🐍.
